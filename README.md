@@ -12,6 +12,8 @@ Everything runs entirely using the main loop. This means not using interrupts.
 
 ProntoIR codes can be generated via IRScrutinizer and various remote codes can be found in IRDB.
 
+Here is a demo of TePIR's performance: https://github.com/stickteo/TePIR/blob/main/example_output/README.md
+
 ## Circuit
 The circuit simply involves connecting a 100ohm resistor and an IR led in series to Pin 4. Teensy2 outputs 5V. The measure voltage and current across the IR led was ~1.4V@36mA.
 

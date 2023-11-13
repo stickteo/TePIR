@@ -19,6 +19,8 @@ The circuit simply involves connecting a 100ohm resistor and an IR led in series
 
 Pin 11 is used to indicate the pulse without the carrier frequency. (Pin 11 is the onboard LED.)
 
+![It's reassuring if the circuit is built and a photo is taken? Hire me!](/example_output/circuit50.jpg)
+
 ## Overview
 The main loop is a basic state machine.
 
